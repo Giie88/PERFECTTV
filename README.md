@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7zRYRD3/PALESTINE.jpg" group-title" group-title="PLAYLIST GIAR_88", GIAR_PERFECT88
-http://103.113.116.150:25461/mtm1/12345/20
+[http://103.113.116.150:25461/mtm1/12345/20](http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8)
 
 
 ==================================================================================
